@@ -20,3 +20,5 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 <img width="855" alt="screen shot 2017-07-21 at 6 21 08 pm" src="https://user-images.githubusercontent.com/12325386/28459825-b12076ec-6e41-11e7-930c-80e736971db8.png">
 
 <img width="838" alt="screen shot 2017-07-21 at 6 21 39 pm" src="https://user-images.githubusercontent.com/12325386/28459838-c31d3f4c-6e41-11e7-8139-ffb315b01318.png">
+
+<img width="861" alt="screen shot 2017-07-21 at 6 25 15 pm" src="https://user-images.githubusercontent.com/12325386/28459888-feaf6c88-6e41-11e7-9477-7d5789ca9bef.png">
